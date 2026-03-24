@@ -69,7 +69,7 @@
   
    **RESULT:**
 
-Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
+Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	3/5	V supply are:
 
 a)	The current across 330Ω resistor is	1.16 mA.
 
